@@ -1,0 +1,1 @@
+pkg install -y curl && curl -fsSL "https://raw.githubusercontent.com/sugesw/Zenith-Hours/main/Android%20Zenith%20Hours/android-install.sh" | ZENITH_REPO=sugesw/Zenith-Hours ZENITH_SUBDIR=Android%20Zenith%20Hours bash
