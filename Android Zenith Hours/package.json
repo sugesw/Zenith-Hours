@@ -1,0 +1,19 @@
+{
+  "name": "zenith-hours",
+  "version": "3.2.0",
+  "description": "Zenith Hours - Steam saat ve kart kasma botu - coklu hesap (Termux uyumlu)",
+  "author": "Sugesw / Exufo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "liste": "node index.js --liste"
+  },
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "steam-session": "^1.7.0",
+    "steam-user": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
